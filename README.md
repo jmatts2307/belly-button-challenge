@@ -8,3 +8,5 @@ In short, the dashboard allows users to investigate microbial biodiversities by 
 
 Technologies Used:
 JavaScript, D3.js, Plotly.js, GitHub Pages.
+
+To access the dashboard, use: https://jmatts2307.github.io/belly-button-challenge/
